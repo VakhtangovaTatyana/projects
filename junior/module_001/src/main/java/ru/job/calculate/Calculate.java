@@ -1,9 +1,11 @@
+package ru.job.calculate;
+
 /**
 * Calculate
 * @author Vakhtangova Tatyana (sharkka@mail.ru)
 */
 
-class Calculate {
+public class Calculate {
 
     /**
     * Main.
