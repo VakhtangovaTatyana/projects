@@ -1,0 +1,22 @@
+<project>
+
+	<modelVersion> 4.0.0 </modelVersion>
+	<groupId>ru.job</groupId>
+	<artifactId>junior</artifactId>
+	<packaging>pom</packaging>
+	<version> 2.0 </version>
+
+	<name>junior_2018</name>
+	
+	<properties>
+       		<maven.compiler.source>9</maven.compiler.source>
+       		<maven.compiler.target>9</maven.compiler.target>
+       		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+     	</properties>
+	
+	<modules>
+      		 <module>module_001</module>
+     	</modules>
+	
+	
+</project>
