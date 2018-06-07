@@ -22,6 +22,6 @@ public class Calculate {
     */
 
     public String echo(String name) {
-		return "Echo, "+ name;
+		return "Echo, " + name;
     }	
 }
